@@ -131,7 +131,7 @@ img {
 /* RESPONSIVE TABLET */
 @media screen and (max-width:768px) {
     .container{
-        width: 90%;
+        width: 100%;
     }
 }
 /* RESPONSIVE MOBILE */
@@ -152,7 +152,7 @@ img {
     }
 }
 /* BONUS */
-@media screen and (min-width:768px), and (max-width:1160px){
+@media screen and (min-width:769px), and (max-width:1160px){
     .container{
         width: 90%;
     }
